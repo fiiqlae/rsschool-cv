@@ -18,4 +18,4 @@ As far as a real workflow experience - I don't have any. The only things I've wr
 - 2017-2019 Lyceum 1 physics-mathematics oriented class, Minsk
 - 2019-present time BSUIR - FCSaN, Minsk
 # English
-B1-B2 according to friends' feedback and EPAM test.
+B2 according to friends' feedback and EPAM test.
